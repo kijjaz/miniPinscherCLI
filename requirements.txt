@@ -5,3 +5,4 @@ fpdf
 openpyxl
 prompt_toolkit
 pillow
+streamlit
