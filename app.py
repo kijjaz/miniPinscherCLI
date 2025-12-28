@@ -5,6 +5,7 @@ from engine import IFRAEngine
 from rich.console import Console
 from rich.table import Table
 from rich import box
+import time
 
 # --- CONFIG & VSCODE MONO FONT ---
 st.set_page_config(
@@ -121,25 +122,21 @@ if 'formula' not in st.session_state:
     st.session_state['formula'] = []
 if 'last_result' not in st.session_state:
     st.session_state['last_result'] = None
+if 'composer_df' not in st.session_state:
+    st.session_state['composer_df'] = pd.DataFrame(columns=['Material', 'Amount'])
 
 # --- PARSING HELPERS ---
 def parse_ansi_art(text):
-    # Regex to find [#hex]content[/#hex]
-    # Replace with <span style="color:hex">content</span>
-    pattern = r'\[(#[a-fA-F0-9]{6})\](.*?)\[/#\1\]'
-    
-    # Recursive replacement for nested tags if any (though regex is simple here)
-    # Python's re doesn't support recursive easily, but we can do a pass.
-    # Actually, simplistic replacement:
+    # Matches [#hex]content[/#hex] loosely (non-greedy content)
+    # Using case-insensitive matching for the hex codes
+    pattern = r'\[(#[A-Fa-f0-9]{6})\](.*?)\[/#[A-Fa-f0-9]{6}\]'
     
     def replace_color(match):
         hex_color = match.group(1)
         content = match.group(2)
         return f'<span style="color:{hex_color}">{content}</span>'
     
-    # Apply multiple times if needed, or stick to simple
-    html = re.sub(pattern, replace_color, text)
-    return html
+    return re.sub(pattern, replace_color, text, flags=re.IGNORECASE | re.DOTALL)
 
 # Load Raw Art
 RAW_ART = """                                        
@@ -175,28 +172,27 @@ def show_menu():
     </div>
     """, unsafe_allow_html=True)
     
-    st.write("Select an option:")
+    st.write("Select an option (Press 1-5):")
     
-    col1, col2 = st.columns([1, 2])
-    with col1:
-        if st.button("1. 🧪 Compliance Check"):
-            st.session_state['screen'] = 'CHECK'
-            st.rerun()
-        if st.button("2. ➕ Formula Composer"):
-            st.session_state['screen'] = 'COMPOSER'
-            st.rerun()
-        if st.button("3. 🔍 Search Database"):
-            st.session_state['screen'] = 'SEARCH'
-            st.rerun()
-        if st.button("4. 📘 Manual / Help"):
-            st.session_state['screen'] = 'HELP'
-            st.rerun()
-        if st.button("5. ❌ Exit / Reset"):
-            st.session_state.clear()
-            st.rerun()
+    # Simulate Prompt-Toolkit 1-5 selection
+    if st.button("1. 🧪 Compliance Check (Batch Processing)"):
+        st.session_state['screen'] = 'CHECK'
+        st.rerun()
+    if st.button("2. ➕ Formula Composer (Interactive)"):
+        st.session_state['screen'] = 'COMPOSER'
+        st.rerun()
+    if st.button("3. 🔍 Search Database"):
+        st.session_state['screen'] = 'SEARCH'
+        st.rerun()
+    if st.button("4. 📘 Manual / Help"):
+        st.session_state['screen'] = 'HELP'
+        st.rerun()
+    if st.button("5. ❌ Exit / Reset"):
+        st.session_state.clear()
+        st.rerun()
 
 def show_check():
-    st.markdown("### 1. 🧪 ANSI Compliance Report")
+    st.markdown("### 1. 🧪 Compliance Check")
     st.markdown("---")
     
     uploaded_file = st.file_uploader("Upload Formula (CSV/Excel)", type=['csv', 'xlsx'])
@@ -261,11 +257,7 @@ def show_check():
                         )
                 
                 console.print(table)
-                
-                # Export HTML
-                html_out = console.export_html(inline_styles=True, code_format="<pre>{code}</pre>")
-                
-                st.session_state['last_html'] = html_out
+                st.session_state['last_html'] = console.export_html(inline_styles=True, code_format="<pre>{code}</pre>")
                 st.session_state['screen'] = 'RESULT'
                 st.rerun()
 
@@ -280,27 +272,50 @@ def show_check():
 def show_result():
     if 'last_html' in st.session_state:
         st.markdown(st.session_state['last_html'], unsafe_allow_html=True)
-    else:
-        st.error("No result data.")
+    
+    if st.button("📥 Download PDF Report"):
+        st.info("PDF Generation not yet linked in Web Terminal.")
         
     if st.button("« Back to Menu"):
         st.session_state['screen'] = 'MENU'
         st.rerun()
 
 def show_composer():
-    st.markdown("### 2. ➕ Formula Composer (Simple)")
-    txt = st.text_area("Enter Formula (Name, Amount)", height=300, help="Format: Rose Oil, 10")
-    if st.button("Calculate"):
-        # (Simplified logic similar to check)
-        pass
+    st.markdown("### 2. ➕ Formula Composer")
+    
+    # Editable DataFrame
+    edited_df = st.data_editor(
+        st.session_state['composer_df'],
+        num_rows="dynamic",
+        use_container_width=True
+    )
+    st.session_state['composer_df'] = edited_df
+
+    if st.button("🚀 Analyze Formula"):
+        formula = []
+        for _, row in edited_df.dropna().iterrows():
+            try:
+                formula.append({'name': str(row['Material']), 'amount': float(row['Amount'])})
+            except: pass
+        if formula:
+             with st.spinner("Analyzing..."):
+                res = engine.calculate_compliance(formula, 20.0)
+                console = Console(record=True, force_terminal=True, color_system="truecolor", width=120)
+                status = "[bold green]PASS[/bold green]" if res['is_compliant'] else "[bold red]FAIL[/bold red]"
+                console.print(f"Compliance Status: {status}")
+                # (Re-use table logic or abstract it)
+                st.session_state['last_html'] = console.export_html(inline_styles=True, code_format="<pre>{code}</pre>")
+                st.session_state['screen'] = 'RESULT'
+                st.rerun()
+
     if st.button("« Back to Menu"):
         st.session_state['screen'] = 'MENU'
         st.rerun()
 
 def show_search():
     st.markdown("### 3. 🔍 Search Database")
-    q = st.text_input("Enter search term:")
-    if q:
+    q = st.text_input("Enter search term (Name, CAS, Code):")
+    if q and st.button("Search"):
         matches = [k for k in engine.contributions_data.keys() if q.lower() in k.lower()]
         console = Console(record=True, force_terminal=True, width=100)
         table = Table(title=f"Search Results: {q}", box=box.SIMPLE)
@@ -316,7 +331,17 @@ def show_search():
 
 def show_help():
     st.markdown("### 4. 📘 Manual")
-    st.write("Terminal Help...")
+    st.markdown("""
+    **miniPinscher Web Terminal Manual**
+    
+    This interface simulates the local CLI experience.
+    
+    1. **Compliance Check**: Validates CSV/Excel formulas against IFRA 51.
+    2. **Details**:
+       - Green/Red indicators for Pass/Fail.
+       - Sources column traces restricted ingredients (e.g. 'Rose Oil' -> 'Citronellol').
+       - Supports recursive breakdown of naturals.
+    """)
     if st.button("« Back to Menu"):
         st.session_state['screen'] = 'MENU'
         st.rerun()
