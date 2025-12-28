@@ -23,6 +23,16 @@ engine = get_engine()
 # --- CSS STYLING ---
 st.markdown("""
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+    html, body, [class*="css"]  {
+        font-family: 'JetBrains Mono', monospace !important;
+    }
+    
+    code {
+        font-family: 'JetBrains Mono', monospace !important;
+    }
+
     .report-card {
         padding: 20px;
         border-radius: 10px;
@@ -30,6 +40,7 @@ st.markdown("""
         border-left: 5px solid #ff4b4b;
         background-color: #1e1e1e;
         color: #ffffff;
+        font-family: 'JetBrains Mono', monospace;
     }
     .pass-card {
         border-left: 5px solid #28a745;
@@ -40,6 +51,15 @@ st.markdown("""
         border-radius: 8px;
         border: 1px solid #464b5d;
         color: white;
+        font-family: 'JetBrains Mono', monospace;
+    }
+    
+    /* Input Fields styling for Terminal Feel */
+    .stTextInput input, .stTextArea textarea, .stSelectbox, .stNumberInput input {
+        font-family: 'JetBrains Mono', monospace !important;
+        background-color: #0e0e0e !important;
+        color: #00ff00 !important;
+        border: 1px solid #333 !important;
     }
 </style>
 """, unsafe_allow_html=True)
