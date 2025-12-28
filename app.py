@@ -33,33 +33,91 @@ st.markdown("""
         font-family: 'JetBrains Mono', monospace !important;
     }
 
+    /* --- TERMINAL THEME OVERRIDES --- */
+    
+    /* Main Background */
+    .stApp {
+        background-color: #0e0e0e !important;
+        color: #00FF00 !important;
+    }
+    
+    /* Sidebar */
+    [data-testid="stSidebar"] {
+        background-color: #1e1e1e !important;
+        border-right: 1px solid #333 !important;
+    }
+    [data-testid="stSidebar"] * {
+        color: #00FF00 !important;
+    }
+
+    /* Text Elements */
+    h1, h2, h3, p, div, span, label {
+        color: #00FF00 !important;
+        font-family: 'JetBrains Mono', monospace !important;
+    }
+    
+    /* Inputs & Widgets */
+    .stTextInput input, .stTextArea textarea, .stSelectbox [data-baseweb="select"], .stNumberInput input {
+        background-color: #000000 !important;
+        color: #00FF00 !important;
+        border: 1px solid #00FF00 !important;
+        font-family: 'JetBrains Mono', monospace !important;
+    }
+    
+    /* Buttons */
+    .stButton button {
+        background-color: #000000 !important;
+        color: #00FF00 !important;
+        border: 1px solid #00FF00 !important;
+        font-family: 'JetBrains Mono', monospace !important;
+        text-transform: uppercase;
+    }
+    .stButton button:hover {
+        background-color: #00FF00 !important;
+        color: #000000 !important;
+        border-color: #00FF00 !important;
+    }
+    
+    /* Sliders */
+    [data-baseweb="slider"] * { 
+        color: #00FF00 !important; 
+    }
+    
+    /* Tables/Dataframes */
+    [data-testid="stDataFrame"] {
+        border: 1px solid #333 !important;
+    }
+
+    /* Custom Cards */
     .report-card {
         padding: 20px;
-        border-radius: 10px;
+        border-radius: 0px;
         margin-bottom: 20px;
-        border-left: 5px solid #ff4b4b;
-        background-color: #1e1e1e;
-        color: #ffffff;
+        border: 1px solid #ff0000;
+        background-color: #000000;
+        color: #ff0000 !important;
         font-family: 'JetBrains Mono', monospace;
     }
     .pass-card {
-        border-left: 5px solid #28a745;
-    }
-    [data-testid="stMetric"] {
-        background-color: #262730;
-        padding: 15px;
-        border-radius: 8px;
-        border: 1px solid #464b5d;
-        color: white;
-        font-family: 'JetBrains Mono', monospace;
+        border-color: #00FF00;
+        color: #00FF00 !important;
     }
     
-    /* Input Fields styling for Terminal Feel */
-    .stTextInput input, .stTextArea textarea, .stSelectbox, .stNumberInput input {
-        font-family: 'JetBrains Mono', monospace !important;
-        background-color: #0e0e0e !important;
-        color: #00ff00 !important;
-        border: 1px solid #333 !important;
+    /* Metric Cards */
+    [data-testid="stMetric"] {
+        background-color: #000000 !important;
+        padding: 15px;
+        border-radius: 0px;
+        border: 1px solid #00FF00 !important;
+        color: #00FF00 !important;
+        font-family: 'JetBrains Mono', monospace;
+    }
+    [data-testid="stMetricLabel"] {
+        color: #00FF00 !important;
+        opacity: 0.8;
+    }
+    [data-testid="stMetricValue"] {
+        color: #00FF00 !important;
     }
 </style>
 """, unsafe_allow_html=True)
