@@ -1,0 +1,2698 @@
+{
+    "metadata": {
+        "IFRA_STD_001": {
+            "name": "Acetic acid, anhydride, reaction products with 1,5,10-Trimethyl-1,5,9-cyclododecatriene",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 2.4
+        },
+        "IFRA_STD_002": {
+            "name": "Acetylated Vetiver oil",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.9
+        },
+        "IFRA_STD_003": {
+            "name": "Allyl phenoxyacetate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.3
+        },
+        "IFRA_STD_004": {
+            "name": "alpha-Amyl cinnamic alcohol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.5
+        },
+        "IFRA_STD_005": {
+            "name": "alpha-Amyl cinnamic aldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 7.0
+        },
+        "IFRA_STD_006": {
+            "name": "Anisyl alcohol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.21
+        },
+        "IFRA_STD_007": {
+            "name": "Benzaldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.25
+        },
+        "IFRA_STD_008": {
+            "name": "Benzyl alcohol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 2.5
+        },
+        "IFRA_STD_009": {
+            "name": "Benzyl benzoate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 4.8
+        },
+        "IFRA_STD_010": {
+            "name": "Benzyl cinnamate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 2.0
+        },
+        "IFRA_STD_011": {
+            "name": "Benzyl salicylate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 7.3
+        },
+        "IFRA_STD_012": {
+            "name": "alpha-Butylcinnamaldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_013": {
+            "name": "3-(m-tert-Butylphenyl)-2-methylpropionaldehyde (m-BMHCA)",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.8
+        },
+        "IFRA_STD_014": {
+            "name": "p-tert-Butyldihydrocinnamaldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.47
+        },
+        "IFRA_STD_015": {
+            "name": "p-tert-Butyl-\u03b1-methylhydrocinnamic aldehyde (p-BMHCA)",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.4
+        },
+        "IFRA_STD_016": {
+            "name": "Carvone",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.59
+        },
+        "IFRA_STD_017": {
+            "name": "Cinnamic alcohol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.2
+        },
+        "IFRA_STD_018": {
+            "name": "Cinnamic aldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.25
+        },
+        "IFRA_STD_019": {
+            "name": "Cinnamic aldehyde dimethyl acetal",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.35
+        },
+        "IFRA_STD_020": {
+            "name": "Cinnamyl nitrile",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_021": {
+            "name": "Citral",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.6
+        },
+        "IFRA_STD_022": {
+            "name": "Citronellol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 12.0
+        },
+        "IFRA_STD_023": {
+            "name": "Coumarin",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.5
+        },
+        "IFRA_STD_024": {
+            "name": "Cuminaldehyde",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.47
+        },
+        "IFRA_STD_025": {
+            "name": "Cyclamen aldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.95
+        },
+        "IFRA_STD_026": {
+            "name": "Cyclopentadecanolide",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 2.4
+        },
+        "IFRA_STD_027": {
+            "name": "Dibenzyl ether",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.012
+        },
+        "IFRA_STD_028": {
+            "name": "6,7-Dihydro-1,1,2,3,3-pentamethyl-4(5H)-indanone (DPMI)",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 3.8
+        },
+        "IFRA_STD_029": {
+            "name": "Dihydrocoumarin",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.21
+        },
+        "IFRA_STD_030": {
+            "name": "Dimethylcyclohex-3-ene-1-carbaldehyde (mixed isomers)",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 2.5
+        },
+        "IFRA_STD_031": {
+            "name": "1-(5,5-Dimethyl-1-cyclohexen-1-yl)pent-4-en-1-one",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.1
+        },
+        "IFRA_STD_032": {
+            "name": "2,2-Dimethyl-3-(3-tolyl)propan-1-ol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.7
+        },
+        "IFRA_STD_033": {
+            "name": "2-Ethoxy-4-methylphenol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.099
+        },
+        "IFRA_STD_034": {
+            "name": "p-Ethylbenzaldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.47
+        },
+        "IFRA_STD_035": {
+            "name": "Eugenol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 2.5
+        },
+        "IFRA_STD_036": {
+            "name": "Farnesol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 1.2
+        },
+        "IFRA_STD_037": {
+            "name": "Geraniol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 4.7
+        },
+        "IFRA_STD_038": {
+            "name": "2-Heptylidene cyclopentan-1-one",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_039": {
+            "name": "2-Hexenal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.0077
+        },
+        "IFRA_STD_040": {
+            "name": "alpha-Hexyl cinnamic aldehyde",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 9.9
+        },
+        "IFRA_STD_041": {
+            "name": "alpha-Hexylidene cyclopentanone",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.13
+        },
+        "IFRA_STD_042": {
+            "name": "Hexyl salicylate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 6.5
+        },
+        "IFRA_STD_043": {
+            "name": "Hydroxycitronellal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 2.1
+        },
+        "IFRA_STD_044": {
+            "name": "3 and 4-(4-Hydroxy-4-methylpentyl)-3-cyclohexene-1-carboxaldehyde (HMPCC)",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.2
+        },
+        "IFRA_STD_045": {
+            "name": "p-Isobutyl-alpha-methyl hydrocinnamaldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.99
+        },
+        "IFRA_STD_046": {
+            "name": "Isocyclocitral",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 3.0
+        },
+        "IFRA_STD_047": {
+            "name": "Isocyclogeraniol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 1.6
+        },
+        "IFRA_STD_048": {
+            "name": "Isoeugenol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.11
+        },
+        "IFRA_STD_049": {
+            "name": "Jasmine absolute (grandiflorum)",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.6
+        },
+        "IFRA_STD_050": {
+            "name": "Jasmine absolute (sambac)",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 3.8
+        },
+        "IFRA_STD_051": {
+            "name": "Melissa oil (genuine Melissa officinalis L.)",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.6
+        },
+        "IFRA_STD_052": {
+            "name": "Perilla aldehyde",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.3
+        },
+        "IFRA_STD_053": {
+            "name": "Menthadiene-7-methyl formate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_054": {
+            "name": "p-Methoxybenzaldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.4
+        },
+        "IFRA_STD_055": {
+            "name": "o-Methoxycinnamaldehyde",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_056": {
+            "name": "Methoxy dicyclopentadiene carboxaldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.1
+        },
+        "IFRA_STD_057": {
+            "name": "4-Methoxy-alpha-methylbenzenepropanal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 2.5
+        },
+        "IFRA_STD_058": {
+            "name": "2-Methoxy-4-methylphenol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.047
+        },
+        "IFRA_STD_059": {
+            "name": "alpha-Methyl-1,3-benzodioxole-5-propionaldehyde (MMDHCA)",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 2.6
+        },
+        "IFRA_STD_060": {
+            "name": "alpha-Methyl cinnamic aldehyde",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 1.5
+        },
+        "IFRA_STD_061": {
+            "name": "6-Methyl-3,5-heptadien-2-one",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.047
+        },
+        "IFRA_STD_062": {
+            "name": "Methyl heptine carbonate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.047
+        },
+        "IFRA_STD_063": {
+            "name": "Methyl ionone, mixed isomers",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 30.0
+        },
+        "IFRA_STD_064": {
+            "name": "Methyl octine carbonate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.01
+        },
+        "IFRA_STD_065": {
+            "name": "3-Methyl-2-(pentyloxy)cyclopent-2-en-1-one",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.47
+        },
+        "IFRA_STD_066": {
+            "name": "2-Nonyn-1-al dimethyl acetal",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 9.9
+        },
+        "IFRA_STD_067": {
+            "name": "Oakmoss extracts",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.1
+        },
+        "IFRA_STD_068": {
+            "name": "1-(1,2,3,4,5,6,7,8 Octahydro-2,3,8,8-tetramethyl-2-naphthalenyl) ethanone (OTNE)",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 20.0
+        },
+        "IFRA_STD_069": {
+            "name": "1-Octen-3-yl acetate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 1.5
+        },
+        "IFRA_STD_070": {
+            "name": "Opoponax",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_071": {
+            "name": "Peru balsam",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.41
+        },
+        "IFRA_STD_072": {
+            "name": "1-(2,4,4,5,5-Pentamethyl-1-cyclopenten-1-yl)ethan-1-one",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_073": {
+            "name": "Phenylacetaldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.25
+        },
+        "IFRA_STD_074": {
+            "name": "3-Phenylbutanal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.44
+        },
+        "IFRA_STD_075": {
+            "name": "2-Phenylpropionaldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.16
+        },
+        "IFRA_STD_076": {
+            "name": "3-Propylidenephthalide",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.4
+        },
+        "IFRA_STD_077": {
+            "name": "Rose ketones",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.043
+        },
+        "IFRA_STD_078": {
+            "name": "Styrax",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.64
+        },
+        "IFRA_STD_079": {
+            "name": "Tea leaf absolute",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.21
+        },
+        "IFRA_STD_080": {
+            "name": "Treemoss extracts",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.1
+        },
+        "IFRA_STD_081": {
+            "name": "o,m,p-Tolualdehydes and their mixtures",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.47
+        },
+        "IFRA_STD_082": {
+            "name": "2,6,6-Trimethylcyclohex-1,3-dienyl methanal",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.012
+        },
+        "IFRA_STD_083": {
+            "name": "Verbena oil and absolute (Lippia citriodora Kunth.)",
+            "type": "DERMAL SENSITIZATION AND PHOTOTOXICITY",
+            "limit_cat4": 0.69
+        },
+        "IFRA_STD_084": {
+            "name": "Ylang ylang extracts",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.73
+        },
+        "IFRA_STD_085": {
+            "name": "Acetyl hexamethyl indan (AHMI)",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": 2.0
+        },
+        "IFRA_STD_086": {
+            "name": "Angelica root oil",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": 0.8
+        },
+        "IFRA_STD_087": {
+            "name": "Bergamot oil expressed",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": 0.4
+        },
+        "IFRA_STD_088": {
+            "name": "Bitter orange peel oil expressed",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": 1.25
+        },
+        "IFRA_STD_089": {
+            "name": "Citrus oils and other furocoumarins containing essential oils",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_090": {
+            "name": "Cumin oil",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": 0.4
+        },
+        "IFRA_STD_091": {
+            "name": "Grapefruit oil expressed",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": 4.0
+        },
+        "IFRA_STD_092": {
+            "name": "Lemon oil cold pressed",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": 2.0
+        },
+        "IFRA_STD_093": {
+            "name": "Lime oil expressed",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": 0.7
+        },
+        "IFRA_STD_094": {
+            "name": "Methyl N-methylanthranilate",
+            "type": "PHOTOTOXICITY AND SYSTEMIC TOXICITY, POTENTIAL OF NITROSAMINE FORMATION",
+            "limit_cat4": 0.1
+        },
+        "IFRA_STD_095": {
+            "name": "Methyl beta-naphthyl ketone",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": 0.2
+        },
+        "IFRA_STD_096": {
+            "name": "Rue oil",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": 0.15
+        },
+        "IFRA_STD_097": {
+            "name": "Tagetes oil and absolute",
+            "type": "PHOTOTOXICITY",
+            "limit_cat4": 0.01
+        },
+        "IFRA_STD_098": {
+            "name": "Furfural",
+            "type": "CARCINOGENICITY",
+            "limit_cat4": 0.001
+        },
+        "IFRA_STD_099": {
+            "name": "Estragole",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.014
+        },
+        "IFRA_STD_100": {
+            "name": "Methyl eugenol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.011
+        },
+        "IFRA_STD_101": {
+            "name": "Methyl N-formylanthranilate",
+            "type": "PHOTOTOXICITY, POTENTIAL OF NITROSAMINE FORMATION",
+            "limit_cat4": 0.1
+        },
+        "IFRA_STD_102": {
+            "name": "Thujone",
+            "type": "NEUROTOXICITY",
+            "limit_cat4": 1.4
+        },
+        "IFRA_STD_103": {
+            "name": "Acetyl ethyl tetramethyl tetralin (AETT)",
+            "type": "NEUROTOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_104": {
+            "name": "Acetyl isovaleryl",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_105": {
+            "name": "Alantroot oil",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_106": {
+            "name": "Allyl heptine carbonate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_107": {
+            "name": "Allyl isothiocyanate",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_108": {
+            "name": "Amylcyclopentenone",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_109": {
+            "name": "Anisylidene acetone",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_110": {
+            "name": "cis-and trans-Asarone",
+            "type": "CARCINOGENICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_111": {
+            "name": "Benzene",
+            "type": "CARCINOGENICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_112": {
+            "name": "Benzyl cyanide",
+            "type": "POTENTIAL OF CYANIDE RELEASE",
+            "limit_cat4": null
+        },
+        "IFRA_STD_113": {
+            "name": "Benzylidene acetone",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_114": {
+            "name": "Birch wood pyrolysate",
+            "type": "CARCINOGENICITY, GENOTOXICITY BY RELEASE OF POLYNUCLEAR HYDROCARBONS (PAH)",
+            "limit_cat4": null
+        },
+        "IFRA_STD_115": {
+            "name": "Boldo oil",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_116": {
+            "name": "3-Bromo-1,7,7-trimethylbicyclo[2.2.1]heptane-2-one",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_117": {
+            "name": "Bromostyrene",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_118": {
+            "name": "p-tert-Butylphenol",
+            "type": "DERMAL SENSITIZATION AND DERMAL DEPIGMENTATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_119": {
+            "name": "Cade oil",
+            "type": "CARCINOGENICITY, GENOTOXICITY BY RELEASE OF POLYNUCLEAR HYDROCARBONS (PAH)",
+            "limit_cat4": null
+        },
+        "IFRA_STD_120": {
+            "name": "Carvone oxide",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_121": {
+            "name": "Chenopodium oil",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_122": {
+            "name": "Cinnamylidene acetone",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_123": {
+            "name": "Colophony",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_124": {
+            "name": "Costus root oil, absolute and concrete",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_125": {
+            "name": "Cyclamen alcohol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_126": {
+            "name": "Musk alpha",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_127": {
+            "name": "Musk KS",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_128": {
+            "name": "2,2-Dichloro-1-methylcyclopropylbenzene",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_129": {
+            "name": "2,4-Dienals",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_130": {
+            "name": "Diethyl maleate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_131": {
+            "name": "2,4-Dihydroxy-3-methylbenzaldehyde",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_132": {
+            "name": "4,6-Dimethyl-8-tert-butylcoumarin",
+            "type": "PHOTOSENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_133": {
+            "name": "3,7-Dimethyl-2-octen-1-ol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_134": {
+            "name": "Dimethyl citraconate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_135": {
+            "name": "Diphenylamine",
+            "type": "TOXICITY, TERATOGENICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_136": {
+            "name": "2,4-Dodecadien-1-ol, (2E, 4E)",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_137": {
+            "name": "Esters of 2-Nonynoic acid (except Methyl octine carbonate)",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_138": {
+            "name": "Esters of 2-Octynoic acid (except Methyl heptine carbonate)",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_139": {
+            "name": "Ethyl acrylate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_140": {
+            "name": "Ethylene glycol monoethyl ether and its acetate",
+            "type": "REPRODUCTIVE TOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_141": {
+            "name": "Ethylene glycol monomethyl ether and its acetate",
+            "type": "REPRODUCTIVE TOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_142": {
+            "name": "Fig leaf absolute",
+            "type": "DERMAL SENSITIZATION AND PHOTOTOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_143": {
+            "name": "Furfuryl alcohol",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_144": {
+            "name": "Furfurylidene acetone",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_145": {
+            "name": "Geranyl nitrile",
+            "type": "GENOTOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_146": {
+            "name": "trans-2-Heptenal",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_147": {
+            "name": "2,4-Hexadien-1-ol",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_148": {
+            "name": "Hexahydrocoumarin",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_149": {
+            "name": "trans-2-Hexenal diethyl acetal",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_150": {
+            "name": "trans-2-Hexenal dimethyl acetal",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_151": {
+            "name": "Hydroabietyl alcohol, Dihydroabietyl alcohol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_152": {
+            "name": "Hydroquinone monoethyl ether",
+            "type": "DEPIGMENTATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_153": {
+            "name": "Hydroquinone monomethyl ether",
+            "type": "DEPIGMENTATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_154": {
+            "name": "Isophorone",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_155": {
+            "name": "6-Isopropyl-2-decalol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_156": {
+            "name": "Massoia bark oil",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_157": {
+            "name": "Massoia lactone",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_158": {
+            "name": "7-Methoxycoumarin",
+            "type": "DERMAL SENSITIZATION AND PHOTOSENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_159": {
+            "name": "\u03b1-Methyl anisylidene acetone",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_160": {
+            "name": "6-Methylcoumarin",
+            "type": "PHOTOSENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_161": {
+            "name": "7-Methylcoumarin",
+            "type": "DERMAL SENSITIZATION AND PHOTOSENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_162": {
+            "name": "Methyl crotonate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_163": {
+            "name": "4-Methyl-7-ethoxycoumarin",
+            "type": "PHOTOSENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_164": {
+            "name": "p-Methylhydrocinnamic aldehyde",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_165": {
+            "name": "Methyl methacrylate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_166": {
+            "name": "3-Methyl-2(3)-nonenenitrile",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_167": {
+            "name": "Musk moskene",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_168": {
+            "name": "Musk ambrette",
+            "type": "PHOTOSENSITIZATION, NEUROTOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_169": {
+            "name": "Musk tibetene",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_170": {
+            "name": "Musk xylene",
+            "type": "VPVB",
+            "limit_cat4": null
+        },
+        "IFRA_STD_171": {
+            "name": "Nitrobenzene",
+            "type": "ACUTE TOXICITY AND SKIN TOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_172": {
+            "name": "2-Pentylidene cyclohexanone",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_174": {
+            "name": "Phenyl acetone",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_175": {
+            "name": "Phenyl benzoate",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_176": {
+            "name": "Pseudoionone",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_177": {
+            "name": "Pseudo methylionones",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_178": {
+            "name": "Quinoline",
+            "type": "CARCINOGENICITY AND MUTAGENICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_179": {
+            "name": "Safrole, Isosafrole and Dihydrosafrole",
+            "type": "CARCINOGENICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_180": {
+            "name": "Santolina oil",
+            "type": "INSUFFICIENT DATA",
+            "limit_cat4": null
+        },
+        "IFRA_STD_181": {
+            "name": "Savin oil",
+            "type": "ACUTE TOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_182": {
+            "name": "Toluene",
+            "type": "LIVER TOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_183": {
+            "name": "Sclareol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_184": {
+            "name": "Pinacea derivatives",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_185": {
+            "name": "Nootkatone",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_186": {
+            "name": "Limonene",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_187": {
+            "name": "Linalool",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_188": {
+            "name": "Allyl esters",
+            "type": "IRRITATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_189": {
+            "name": "Musk ketone",
+            "type": "SEE FRAGRANCE INGREDIENT SPECIFICATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_190": {
+            "name": "Propenylguaethol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.99
+        },
+        "IFRA_STD_191": {
+            "name": "2-Methoxy-4-propylphenol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.73
+        },
+        "IFRA_STD_192": {
+            "name": "alpha-Bisabolol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 2.4
+        },
+        "IFRA_STD_193": {
+            "name": "p-Tolyl alcohol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.5
+        },
+        "IFRA_STD_194": {
+            "name": "p-Isopropylbenzyl alcohol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 2.5
+        },
+        "IFRA_STD_195": {
+            "name": "2,6,10-Trimethylundeca-5,9-dien-1-ol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 1.2
+        },
+        "IFRA_STD_197": {
+            "name": "Cedrene",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 1.5
+        },
+        "IFRA_STD_198": {
+            "name": "4-Phenyl-3-buten-2-ol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 1.2
+        },
+        "IFRA_STD_199": {
+            "name": "Longifolene",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 1.5
+        },
+        "IFRA_STD_201": {
+            "name": "4-Hydroxy-2,5-dimethyl-3(2H)-furanone",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.25
+        },
+        "IFRA_STD_202": {
+            "name": "Farnesal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.6
+        },
+        "IFRA_STD_203": {
+            "name": "3,7-Dimethyl-2,6-nonadien-1-al",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.6
+        },
+        "IFRA_STD_204": {
+            "name": "5,9-Dimethyl-4,8-decadienal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 3.0
+        },
+        "IFRA_STD_205": {
+            "name": "3,7-Dimethyl-3,6-octadienal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 3.0
+        },
+        "IFRA_STD_206": {
+            "name": "Citronellal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.49
+        },
+        "IFRA_STD_207": {
+            "name": "4,8-Dimethyl-4,9-decadienal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.24
+        },
+        "IFRA_STD_208": {
+            "name": "cis,trans-4-(Isopropyl)cyclohexanemethanol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 4.7
+        },
+        "IFRA_STD_209": {
+            "name": "4-(Isopropyl)-.beta.-methylcyclohexanethanol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 6.4
+        },
+        "IFRA_STD_210": {
+            "name": "Cyclohexanemethanol, 2,4-dimethyl-",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.0013
+        },
+        "IFRA_STD_211": {
+            "name": "3,3-Dimethyl-5-(2,2,3-trimethyl-3-cyclopenten-1-yl)-4-penten-2-ol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.1
+        },
+        "IFRA_STD_212": {
+            "name": "5-(2,2,3-Trimethyl-3-cyclopentenyl)-3-methylpentan-2-ol",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 1.2
+        },
+        "IFRA_STD_213": {
+            "name": "alpha,2,2,3-Tetramethylcyclopent-3-ene-1-butyraldehyde",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.21
+        },
+        "IFRA_STD_214": {
+            "name": "Isobutyl N-methylanthranylate",
+            "type": "POTENTIAL OF NITROSAMINE FORMATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_215": {
+            "name": "p-Methyltetrahydroquinoline",
+            "type": "POTENTIAL OF NITROSAMINE FORMATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_216": {
+            "name": "1,2,3,4-Tetrahydro-4-methylquinoline",
+            "type": "POTENTIAL OF NITROSAMINE FORMATION",
+            "limit_cat4": null
+        },
+        "IFRA_STD_217": {
+            "name": "4-(4-Hydroxyphenyl)butan-2-one",
+            "type": "DEPIGMENTATION",
+            "limit_cat4": 1.0
+        },
+        "IFRA_STD_218": {
+            "name": "Mintlactone",
+            "type": "GENOTOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_219": {
+            "name": "Ethyl isopropyl bicycloheptene-2-carboxylate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.94
+        },
+        "IFRA_STD_220": {
+            "name": "Tetramethyl bicyclo-2-heptene-2-propionaldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.3
+        },
+        "IFRA_STD_221": {
+            "name": "1-(2,2,6-Trimethylcyclohexyl)-3-hexanol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.3
+        },
+        "IFRA_STD_222": {
+            "name": "1-(2-tert.-Butyl cyclohexyloxy)-2-butanol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.3
+        },
+        "IFRA_STD_223": {
+            "name": "3,6,7-Trimethyl-2,6-octadienal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.6
+        },
+        "IFRA_STD_224": {
+            "name": "2,4,4,7-Tetramethyl-6-octen-3-one",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.9
+        },
+        "IFRA_STD_225": {
+            "name": "2-Cyclohexylidene-2-ortho-tolylacetonitrile",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.52
+        },
+        "IFRA_STD_226": {
+            "name": "Ethyl and Methyl furaneol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.25
+        },
+        "IFRA_STD_227": {
+            "name": "2-Hexylidenecyclohexan-1-one",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.13
+        },
+        "IFRA_STD_228": {
+            "name": "2-Methyl-2-pentenal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.0077
+        },
+        "IFRA_STD_229": {
+            "name": "2-Octen-4-one",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.047
+        },
+        "IFRA_STD_231": {
+            "name": "Methyl lavender ketone",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.082
+        },
+        "IFRA_STD_232": {
+            "name": "3,4,5,6,6-Pentamethylhept-3-en-2-one",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.9
+        },
+        "IFRA_STD_233": {
+            "name": "3-Methyl-5-phenylpent-2-enenitrile",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.12
+        },
+        "IFRA_STD_234": {
+            "name": "3-Octen-2-one",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.047
+        },
+        "IFRA_STD_235": {
+            "name": "Dimethyl octenone",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.9
+        },
+        "IFRA_STD_236": {
+            "name": "Isopentylcyclohexanone",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.15
+        },
+        "IFRA_STD_237": {
+            "name": "Woody furan",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.94
+        },
+        "IFRA_STD_238": {
+            "name": "Allyl 3-cyclohexylpropionate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.47
+        },
+        "IFRA_STD_239": {
+            "name": "alpha-Amylcinnamicaldehyde diethyl acetal",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.35
+        },
+        "IFRA_STD_240": {
+            "name": "alpha-Amylcinnamicaldehyde dimethyl acetal",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.35
+        },
+        "IFRA_STD_241": {
+            "name": "alpha-Cyclohexylidene benzeneacetonitrile",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.52
+        },
+        "IFRA_STD_242": {
+            "name": "5-Hexen-1-yl 2-methylbutanoate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.64
+        },
+        "IFRA_STD_243": {
+            "name": "Carvyl acetate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.24
+        },
+        "IFRA_STD_244": {
+            "name": "cis-3-Heptenyl acetate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_245": {
+            "name": "cis-3-Hexenyl isovalerate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_246": {
+            "name": "cis-3-Hexenyl methyl carbonate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.56
+        },
+        "IFRA_STD_247": {
+            "name": "cis-3-Nonenyl acetate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_248": {
+            "name": "Citronellyl acetate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 2.7
+        },
+        "IFRA_STD_249": {
+            "name": "Cyclohexadecanone",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 4.3
+        },
+        "IFRA_STD_250": {
+            "name": "Cyclohexadecenone",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 4.3
+        },
+        "IFRA_STD_251": {
+            "name": "1-(2,2,6-Trimethylcyclohexyl)-3-pentanol",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.3
+        },
+        "IFRA_STD_252": {
+            "name": "(Ethoxymethoxy)-cyclododecane",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.5
+        },
+        "IFRA_STD_253": {
+            "name": "6-Hydroxy-2,6-dimethylheptanal",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.2
+        },
+        "IFRA_STD_254": {
+            "name": "Isobutyl cinnamate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.2
+        },
+        "IFRA_STD_255": {
+            "name": "Isoeugenyl acetate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.99
+        },
+        "IFRA_STD_256": {
+            "name": "4-Methyl-1-propan-2-ylbicyclo[2.2.2]oct-2-ene-8-carboxylate",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.94
+        },
+        "IFRA_STD_257": {
+            "name": "Methyl vanillyl ether",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.5
+        },
+        "IFRA_STD_258": {
+            "name": "Myraldyl acetate",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_259": {
+            "name": "Octahydro-dimethylnaphthalene-2-carbaldehyde (mixed isomers)",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 2.1
+        },
+        "IFRA_STD_260": {
+            "name": "p-Cresol",
+            "type": "DEPIGMENTATION",
+            "limit_cat4": 0.005
+        },
+        "IFRA_STD_261": {
+            "name": "Phenoxyacetaldehyde",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.25
+        },
+        "IFRA_STD_262": {
+            "name": "Carvomenthone",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 1.9
+        },
+        "IFRA_STD_263": {
+            "name": "4-tert-Butylcyclohexanone",
+            "type": "DERMAL SENSITIZATION AND SYSTEMIC TOXICITY",
+            "limit_cat4": 0.15
+        },
+        "IFRA_STD_264": {
+            "name": "7-Methoxy-3,7-dimethyloct-1-ene",
+            "type": "SYSTEMIC TOXICITY",
+            "limit_cat4": 1e-05
+        },
+        "IFRA_STD_265": {
+            "name": "Methoxycyclododecane",
+            "type": "SYSTEMIC TOXICITY",
+            "limit_cat4": 0.43
+        },
+        "IFRA_STD_266": {
+            "name": "3-Acetyl-2,5-dimethylfuran",
+            "type": "GENOTOXICITY",
+            "limit_cat4": null
+        },
+        "IFRA_STD_267": {
+            "name": "2,5-Octadien-4-one, 5,6,7-trimethyl-, (2E)-",
+            "type": "DERMAL SENSITIZATION",
+            "limit_cat4": 0.11
+        }
+    },
+    "cas_mapping": {
+        "144020-22-4": [
+            "IFRA_STD_001"
+        ],
+        "28371-99-5": [
+            "IFRA_STD_001"
+        ],
+        "84082-84-8": [
+            "IFRA_STD_002"
+        ],
+        "68917-34-0": [
+            "IFRA_STD_002"
+        ],
+        "73246-97-6": [
+            "IFRA_STD_002"
+        ],
+        "62563-80-8": [
+            "IFRA_STD_002"
+        ],
+        "7493-74-5": [
+            "IFRA_STD_003"
+        ],
+        "863306-60-9": [
+            "IFRA_STD_003"
+        ],
+        "101-85-9": [
+            "IFRA_STD_004"
+        ],
+        "122-40-7": [
+            "IFRA_STD_005"
+        ],
+        "105-13-5": [
+            "IFRA_STD_006"
+        ],
+        "1331-81-3": [
+            "IFRA_STD_006"
+        ],
+        "100-52-7": [
+            "IFRA_STD_007"
+        ],
+        "100-51-6": [
+            "IFRA_STD_008"
+        ],
+        "120-51-4": [
+            "IFRA_STD_009"
+        ],
+        "103-41-3": [
+            "IFRA_STD_010"
+        ],
+        "118-58-1": [
+            "IFRA_STD_011"
+        ],
+        "7492-44-6": [
+            "IFRA_STD_012"
+        ],
+        "62518-65-4": [
+            "IFRA_STD_013"
+        ],
+        "18127-01-0": [
+            "IFRA_STD_014"
+        ],
+        "80-54-6": [
+            "IFRA_STD_015"
+        ],
+        "99-49-0": [
+            "IFRA_STD_016"
+        ],
+        "2244-16-8": [
+            "IFRA_STD_016"
+        ],
+        "6485-40-1": [
+            "IFRA_STD_016"
+        ],
+        "104-54-1": [
+            "IFRA_STD_017"
+        ],
+        "104-55-2": [
+            "IFRA_STD_018"
+        ],
+        "4364-06-1": [
+            "IFRA_STD_019"
+        ],
+        "1885-38-7": [
+            "IFRA_STD_020"
+        ],
+        "4360-47-8": [
+            "IFRA_STD_020"
+        ],
+        "5392-40-5": [
+            "IFRA_STD_021"
+        ],
+        "141-27-5": [
+            "IFRA_STD_021"
+        ],
+        "106-26-3": [
+            "IFRA_STD_021"
+        ],
+        "106-22-9": [
+            "IFRA_STD_022"
+        ],
+        "1117-61-9": [
+            "IFRA_STD_022"
+        ],
+        "26489-01-0": [
+            "IFRA_STD_022"
+        ],
+        "6812-78-8": [
+            "IFRA_STD_022"
+        ],
+        "141-25-3": [
+            "IFRA_STD_022"
+        ],
+        "7540-51-4": [
+            "IFRA_STD_022"
+        ],
+        "91-64-5": [
+            "IFRA_STD_023"
+        ],
+        "122-03-2": [
+            "IFRA_STD_024"
+        ],
+        "103-95-7": [
+            "IFRA_STD_025"
+        ],
+        "106-02-5": [
+            "IFRA_STD_026"
+        ],
+        "103-50-4": [
+            "IFRA_STD_027"
+        ],
+        "33704-61-9": [
+            "IFRA_STD_028"
+        ],
+        "119-84-6": [
+            "IFRA_STD_029"
+        ],
+        "68737-61-1 (mixed isomers)": [
+            "IFRA_STD_030"
+        ],
+        "68039-49-6": [
+            "IFRA_STD_030"
+        ],
+        "68039-48-5": [
+            "IFRA_STD_030"
+        ],
+        "27939-60-2": [
+            "IFRA_STD_030"
+        ],
+        "67801-65-4": [
+            "IFRA_STD_030"
+        ],
+        "36635-35-5": [
+            "IFRA_STD_030"
+        ],
+        "68084-52-6": [
+            "IFRA_STD_030"
+        ],
+        "35145-02-9": [
+            "IFRA_STD_030"
+        ],
+        "56973-85-4": [
+            "IFRA_STD_031"
+        ],
+        "103694-68-4": [
+            "IFRA_STD_032"
+        ],
+        "2563-07-7": [
+            "IFRA_STD_033"
+        ],
+        "4748-78-1": [
+            "IFRA_STD_034"
+        ],
+        "97-53-0": [
+            "IFRA_STD_035"
+        ],
+        "4602-84-0": [
+            "IFRA_STD_036"
+        ],
+        "106-28-5": [
+            "IFRA_STD_036"
+        ],
+        "3790-71-4": [
+            "IFRA_STD_036"
+        ],
+        "16106-95-9": [
+            "IFRA_STD_036"
+        ],
+        "3879-60-5": [
+            "IFRA_STD_036"
+        ],
+        "106-24-1": [
+            "IFRA_STD_037"
+        ],
+        "39189-74-7": [
+            "IFRA_STD_038"
+        ],
+        "505-57-7": [
+            "IFRA_STD_039"
+        ],
+        "6728-26-3": [
+            "IFRA_STD_039"
+        ],
+        "16635-54-4": [
+            "IFRA_STD_039"
+        ],
+        "101-86-0": [
+            "IFRA_STD_040"
+        ],
+        "17373-89-6": [
+            "IFRA_STD_041"
+        ],
+        "6259-76-3": [
+            "IFRA_STD_042"
+        ],
+        "107-75-5": [
+            "IFRA_STD_043"
+        ],
+        "31906-04-4": [
+            "IFRA_STD_044"
+        ],
+        "51414-25-6": [
+            "IFRA_STD_044"
+        ],
+        "6658-48-6": [
+            "IFRA_STD_045"
+        ],
+        "1335-66-6": [
+            "IFRA_STD_046"
+        ],
+        "1423-46-7": [
+            "IFRA_STD_046"
+        ],
+        "67634-07-5": [
+            "IFRA_STD_046"
+        ],
+        "68527-77-5": [
+            "IFRA_STD_047"
+        ],
+        "97-54-1": [
+            "IFRA_STD_048"
+        ],
+        "5932-68-3": [
+            "IFRA_STD_048"
+        ],
+        "8022-96-6": [
+            "IFRA_STD_049"
+        ],
+        "8024-43-9": [
+            "IFRA_STD_049"
+        ],
+        "90045-94-6": [
+            "IFRA_STD_049"
+        ],
+        "84776-64-7": [
+            "IFRA_STD_049"
+        ],
+        "91770-14-8": [
+            "IFRA_STD_050"
+        ],
+        "1034798-23-6": [
+            "IFRA_STD_050"
+        ],
+        "8014-71-9": [
+            "IFRA_STD_051"
+        ],
+        "84082-61-1": [
+            "IFRA_STD_051"
+        ],
+        "2111-75-3": [
+            "IFRA_STD_052"
+        ],
+        "68683-20-5": [
+            "IFRA_STD_053"
+        ],
+        "123-11-5": [
+            "IFRA_STD_054"
+        ],
+        "1504-74-1": [
+            "IFRA_STD_055"
+        ],
+        "86803-90-9": [
+            "IFRA_STD_056"
+        ],
+        "5462-06-6": [
+            "IFRA_STD_057"
+        ],
+        "93-51-6": [
+            "IFRA_STD_058"
+        ],
+        "1205-17-0": [
+            "IFRA_STD_059"
+        ],
+        "101-39-3": [
+            "IFRA_STD_060"
+        ],
+        "1604-28-0": [
+            "IFRA_STD_061"
+        ],
+        "111-12-6": [
+            "IFRA_STD_062"
+        ],
+        "1335-46-2": [
+            "IFRA_STD_063"
+        ],
+        "127-42-4": [
+            "IFRA_STD_063"
+        ],
+        "127-43-5": [
+            "IFRA_STD_063"
+        ],
+        "127-51-5": [
+            "IFRA_STD_063"
+        ],
+        "7779-30-8": [
+            "IFRA_STD_063"
+        ],
+        "79-89-0": [
+            "IFRA_STD_063"
+        ],
+        "1335-94-0": [
+            "IFRA_STD_063"
+        ],
+        "111-80-8": [
+            "IFRA_STD_064"
+        ],
+        "68922-13-4": [
+            "IFRA_STD_065"
+        ],
+        "13257-44-8": [
+            "IFRA_STD_066"
+        ],
+        "90028-68-5": [
+            "IFRA_STD_067"
+        ],
+        "68917-10-2": [
+            "IFRA_STD_067"
+        ],
+        "9000-50-4": [
+            "IFRA_STD_067"
+        ],
+        "54464-57-2": [
+            "IFRA_STD_068"
+        ],
+        "54464-59-4": [
+            "IFRA_STD_068"
+        ],
+        "68155-66-8": [
+            "IFRA_STD_068"
+        ],
+        "68155-67-9": [
+            "IFRA_STD_068"
+        ],
+        "2442-10-6": [
+            "IFRA_STD_069"
+        ],
+        "8021-36-1": [
+            "IFRA_STD_070"
+        ],
+        "9000-78-6": [
+            "IFRA_STD_070"
+        ],
+        "93384-32-8": [
+            "IFRA_STD_070"
+        ],
+        "8007-00-9": [
+            "IFRA_STD_071"
+        ],
+        "13144-88-2": [
+            "IFRA_STD_072"
+        ],
+        "122-78-1": [
+            "IFRA_STD_073"
+        ],
+        "16251-77-7": [
+            "IFRA_STD_074"
+        ],
+        "93-53-8": [
+            "IFRA_STD_075"
+        ],
+        "1340-11-0": [
+            "IFRA_STD_075"
+        ],
+        "34713-70-7": [
+            "IFRA_STD_075"
+        ],
+        "17369-59-4": [
+            "IFRA_STD_076"
+        ],
+        "23696-85-7": [
+            "IFRA_STD_077"
+        ],
+        "23726-93-4": [
+            "IFRA_STD_077"
+        ],
+        "59739-63-8": [
+            "IFRA_STD_077"
+        ],
+        "43052-87-5": [
+            "IFRA_STD_077"
+        ],
+        "24720-09-0": [
+            "IFRA_STD_077"
+        ],
+        "23726-94-5": [
+            "IFRA_STD_077"
+        ],
+        "23726-92-3": [
+            "IFRA_STD_077"
+        ],
+        "23726-91-2": [
+            "IFRA_STD_077"
+        ],
+        "35044-68-9": [
+            "IFRA_STD_077"
+        ],
+        "57378-68-4": [
+            "IFRA_STD_077"
+        ],
+        "71048-82-3": [
+            "IFRA_STD_077"
+        ],
+        "35087-49-1": [
+            "IFRA_STD_077"
+        ],
+        "39872-57-6": [
+            "IFRA_STD_077"
+        ],
+        "70266-48-7": [
+            "IFRA_STD_077"
+        ],
+        "33673-71-1": [
+            "IFRA_STD_077"
+        ],
+        "87064-19-5": [
+            "IFRA_STD_077"
+        ],
+        "8046-19-3": [
+            "IFRA_STD_078"
+        ],
+        "8024-01-9": [
+            "IFRA_STD_078"
+        ],
+        "94891-27-7": [
+            "IFRA_STD_078"
+        ],
+        "94891-28-8": [
+            "IFRA_STD_078"
+        ],
+        "101227-15-0": [
+            "IFRA_STD_078"
+        ],
+        "84650-60-2": [
+            "IFRA_STD_079"
+        ],
+        "90028-67-4": [
+            "IFRA_STD_080"
+        ],
+        "68648-41-9": [
+            "IFRA_STD_080"
+        ],
+        "68917-40-8": [
+            "IFRA_STD_080"
+        ],
+        "529-20-4": [
+            "IFRA_STD_081"
+        ],
+        "620-23-5": [
+            "IFRA_STD_081"
+        ],
+        "104-87-0": [
+            "IFRA_STD_081"
+        ],
+        "1334-78-7": [
+            "IFRA_STD_081"
+        ],
+        "116-26-7": [
+            "IFRA_STD_082"
+        ],
+        "8024-12-2": [
+            "IFRA_STD_083"
+        ],
+        "85116-63-8": [
+            "IFRA_STD_083"
+        ],
+        "8006-81-3": [
+            "IFRA_STD_084"
+        ],
+        "68606-83-7": [
+            "IFRA_STD_084"
+        ],
+        "83863-30-3": [
+            "IFRA_STD_084"
+        ],
+        "15323-35-0": [
+            "IFRA_STD_085"
+        ],
+        "8015-64-3": [
+            "IFRA_STD_086"
+        ],
+        "84775-41-7": [
+            "IFRA_STD_086"
+        ],
+        "8007-75-8": [
+            "IFRA_STD_087"
+        ],
+        "89957-91-5": [
+            "IFRA_STD_087"
+        ],
+        "68916-04-1": [
+            "IFRA_STD_088"
+        ],
+        "72968-50-4": [
+            "IFRA_STD_088"
+        ],
+        "8014-13-9": [
+            "IFRA_STD_090"
+        ],
+        "84775-51-9": [
+            "IFRA_STD_090"
+        ],
+        "8016-20-4": [
+            "IFRA_STD_091"
+        ],
+        "90045-43-5": [
+            "IFRA_STD_091"
+        ],
+        "8008-56-8": [
+            "IFRA_STD_092"
+        ],
+        "84929-31-7": [
+            "IFRA_STD_092"
+        ],
+        "8008-26-2": [
+            "IFRA_STD_093"
+        ],
+        "90063-52-8": [
+            "IFRA_STD_093"
+        ],
+        "85-91-6": [
+            "IFRA_STD_094"
+        ],
+        "93-08-3": [
+            "IFRA_STD_095"
+        ],
+        "8014-29-7": [
+            "IFRA_STD_096"
+        ],
+        "84929-47-5": [
+            "IFRA_STD_096"
+        ],
+        "prohibition of tagetes erecta:": [
+            "IFRA_STD_097"
+        ],
+        "90131-43-4": [
+            "IFRA_STD_097"
+        ],
+        "8016-84-0": [
+            "IFRA_STD_097"
+        ],
+        "restriction and specification of tagetes patula and tagetes minuta:": [
+            "IFRA_STD_097"
+        ],
+        "91722-29-1": [
+            "IFRA_STD_097"
+        ],
+        "91770-75-1": [
+            "IFRA_STD_097"
+        ],
+        "98-01-1": [
+            "IFRA_STD_098"
+        ],
+        "140-67-0": [
+            "IFRA_STD_099"
+        ],
+        "1407-27-8": [
+            "IFRA_STD_099"
+        ],
+        "77525-18-9": [
+            "IFRA_STD_099"
+        ],
+        "93-15-2": [
+            "IFRA_STD_100"
+        ],
+        "41270-80-8": [
+            "IFRA_STD_101"
+        ],
+        "546-80-5": [
+            "IFRA_STD_102"
+        ],
+        "471-15-8": [
+            "IFRA_STD_102"
+        ],
+        "76231-76-0": [
+            "IFRA_STD_102"
+        ],
+        "1125-12-8": [
+            "IFRA_STD_102"
+        ],
+        "88-29-9": [
+            "IFRA_STD_103"
+        ],
+        "13706-86-0": [
+            "IFRA_STD_104"
+        ],
+        "84012-20-4": [
+            "IFRA_STD_105"
+        ],
+        "97676-35-2": [
+            "IFRA_STD_105"
+        ],
+        "73157-43-4": [
+            "IFRA_STD_106"
+        ],
+        "57-06-7": [
+            "IFRA_STD_107"
+        ],
+        "25564-22-1": [
+            "IFRA_STD_108"
+        ],
+        "943-88-4": [
+            "IFRA_STD_109"
+        ],
+        "494-40-6": [
+            "IFRA_STD_110"
+        ],
+        "2883-98-9": [
+            "IFRA_STD_110"
+        ],
+        "5273-86-9": [
+            "IFRA_STD_110"
+        ],
+        "71-43-2": [
+            "IFRA_STD_111"
+        ],
+        "140-29-4": [
+            "IFRA_STD_112"
+        ],
+        "122-57-6": [
+            "IFRA_STD_113"
+        ],
+        "8001-88-5": [
+            "IFRA_STD_114"
+        ],
+        "68917-50-0": [
+            "IFRA_STD_114"
+        ],
+        "84012-15-7": [
+            "IFRA_STD_114"
+        ],
+        "85251-66-7": [
+            "IFRA_STD_114"
+        ],
+        "85940-29-0": [
+            "IFRA_STD_114"
+        ],
+        "91745-85-6": [
+            "IFRA_STD_114"
+        ],
+        "8022-81-9": [
+            "IFRA_STD_115"
+        ],
+        "84649-96-7": [
+            "IFRA_STD_115"
+        ],
+        "76-29-9": [
+            "IFRA_STD_116"
+        ],
+        "103-64-0": [
+            "IFRA_STD_117"
+        ],
+        "98-54-4": [
+            "IFRA_STD_118"
+        ],
+        "8013-10-3": [
+            "IFRA_STD_119"
+        ],
+        "90046-02-9": [
+            "IFRA_STD_119"
+        ],
+        "33204-74-9": [
+            "IFRA_STD_120"
+        ],
+        "8006-99-3": [
+            "IFRA_STD_121"
+        ],
+        "8024-11-1": [
+            "IFRA_STD_121"
+        ],
+        "89997-47-7": [
+            "IFRA_STD_121"
+        ],
+        "4173-44-8": [
+            "IFRA_STD_122"
+        ],
+        "8050-09-7": [
+            "IFRA_STD_123"
+        ],
+        "8023-88-9": [
+            "IFRA_STD_124"
+        ],
+        "90106-55-1": [
+            "IFRA_STD_124"
+        ],
+        "4756-19-8": [
+            "IFRA_STD_125"
+        ],
+        "63697-53-0": [
+            "IFRA_STD_126"
+        ],
+        "62265-99-0": [
+            "IFRA_STD_127"
+        ],
+        "3591-42-2": [
+            "IFRA_STD_128"
+        ],
+        "764-40-9": [
+            "IFRA_STD_129"
+        ],
+        "142-83-6": [
+            "IFRA_STD_129"
+        ],
+        "80466-34-8": [
+            "IFRA_STD_129"
+        ],
+        "5910-85-0": [
+            "IFRA_STD_129"
+        ],
+        "30361-28-5": [
+            "IFRA_STD_129"
+        ],
+        "6750-03-4": [
+            "IFRA_STD_129"
+        ],
+        "2363-88-4": [
+            "IFRA_STD_129"
+        ],
+        "13162-46-4": [
+            "IFRA_STD_129"
+        ],
+        "21662-16-8": [
+            "IFRA_STD_129"
+        ],
+        "25152-84-5": [
+            "IFRA_STD_129"
+        ],
+        "30361-29-6": [
+            "IFRA_STD_129"
+        ],
+        "4313-03-5": [
+            "IFRA_STD_129"
+        ],
+        "20432-40-0": [
+            "IFRA_STD_129"
+        ],
+        "4488-48-6": [
+            "IFRA_STD_129"
+        ],
+        "5577-44-6": [
+            "IFRA_STD_129"
+        ],
+        "5910-87-2": [
+            "IFRA_STD_129"
+        ],
+        "141-05-9": [
+            "IFRA_STD_130"
+        ],
+        "6248-20-0": [
+            "IFRA_STD_131"
+        ],
+        "17874-34-9": [
+            "IFRA_STD_132"
+        ],
+        "40607-48-5": [
+            "IFRA_STD_133"
+        ],
+        "617-54-9": [
+            "IFRA_STD_134"
+        ],
+        "122-39-4": [
+            "IFRA_STD_135"
+        ],
+        "18485-38-6": [
+            "IFRA_STD_136"
+        ],
+        "10031-92-2": [
+            "IFRA_STD_137"
+        ],
+        "10484-32-9": [
+            "IFRA_STD_138"
+        ],
+        "10519-20-7": [
+            "IFRA_STD_138"
+        ],
+        "140-88-5": [
+            "IFRA_STD_139"
+        ],
+        "110-80-5 (ether)": [
+            "IFRA_STD_140"
+        ],
+        "111-15-9 (acetate)": [
+            "IFRA_STD_140"
+        ],
+        "109-86-4 (ether)": [
+            "IFRA_STD_141"
+        ],
+        "110-49-6 (acetate)": [
+            "IFRA_STD_141"
+        ],
+        "68916-52-9": [
+            "IFRA_STD_142"
+        ],
+        "90028-74-3": [
+            "IFRA_STD_142"
+        ],
+        "98-00-0": [
+            "IFRA_STD_143"
+        ],
+        "623-15-4": [
+            "IFRA_STD_144"
+        ],
+        "5146-66-7": [
+            "IFRA_STD_145"
+        ],
+        "5585-39-7": [
+            "IFRA_STD_145"
+        ],
+        "31983-27-4": [
+            "IFRA_STD_145"
+        ],
+        "18829-55-5": [
+            "IFRA_STD_146"
+        ],
+        "111-28-4": [
+            "IFRA_STD_147"
+        ],
+        "17102-64-6": [
+            "IFRA_STD_147"
+        ],
+        "700-82-3": [
+            "IFRA_STD_148"
+        ],
+        "67746-30-9": [
+            "IFRA_STD_149"
+        ],
+        "18318-83-7": [
+            "IFRA_STD_150"
+        ],
+        "13393-93-6": [
+            "IFRA_STD_151"
+        ],
+        "26266-77-3": [
+            "IFRA_STD_151"
+        ],
+        "1333-89-7": [
+            "IFRA_STD_151"
+        ],
+        "622-62-8": [
+            "IFRA_STD_152"
+        ],
+        "150-76-5": [
+            "IFRA_STD_153"
+        ],
+        "78-59-1": [
+            "IFRA_STD_154"
+        ],
+        "34131-99-2": [
+            "IFRA_STD_155"
+        ],
+        "85085-26-3": [
+            "IFRA_STD_156"
+        ],
+        "54814-64-1": [
+            "IFRA_STD_157"
+        ],
+        "51154-96-2": [
+            "IFRA_STD_157"
+        ],
+        "531-59-9": [
+            "IFRA_STD_158"
+        ],
+        "104-27-8": [
+            "IFRA_STD_159"
+        ],
+        "92-48-8": [
+            "IFRA_STD_160"
+        ],
+        "2445-83-2": [
+            "IFRA_STD_161"
+        ],
+        "623-43-8": [
+            "IFRA_STD_162"
+        ],
+        "87-05-8": [
+            "IFRA_STD_163"
+        ],
+        "5406-12-2": [
+            "IFRA_STD_164"
+        ],
+        "80-62-6": [
+            "IFRA_STD_165"
+        ],
+        "53153-66-5": [
+            "IFRA_STD_166"
+        ],
+        "116-66-5": [
+            "IFRA_STD_167"
+        ],
+        "83-66-9": [
+            "IFRA_STD_168"
+        ],
+        "145-39-1": [
+            "IFRA_STD_169"
+        ],
+        "81-15-2": [
+            "IFRA_STD_170"
+        ],
+        "98-95-3": [
+            "IFRA_STD_171"
+        ],
+        "25677-40-1": [
+            "IFRA_STD_172"
+        ],
+        "103-79-7": [
+            "IFRA_STD_174"
+        ],
+        "93-99-2": [
+            "IFRA_STD_175"
+        ],
+        "141-10-6": [
+            "IFRA_STD_176"
+        ],
+        "26651-96-7": [
+            "IFRA_STD_177"
+        ],
+        "72968-25-3": [
+            "IFRA_STD_177"
+        ],
+        "1117-41-5": [
+            "IFRA_STD_177"
+        ],
+        "91-22-5": [
+            "IFRA_STD_178"
+        ],
+        "94-59-7": [
+            "IFRA_STD_179"
+        ],
+        "120-58-1": [
+            "IFRA_STD_179"
+        ],
+        "94-58-6": [
+            "IFRA_STD_179"
+        ],
+        "84961-58-0": [
+            "IFRA_STD_180"
+        ],
+        "prohibition of savin oil:": [
+            "IFRA_STD_181"
+        ],
+        "8024-00-8": [
+            "IFRA_STD_181"
+        ],
+        "90046-04-1": [
+            "IFRA_STD_181"
+        ],
+        "specification of savin oil:": [
+            "IFRA_STD_181"
+        ],
+        "68916-94-9": [
+            "IFRA_STD_181"
+        ],
+        "90046-03-0": [
+            "IFRA_STD_181"
+        ],
+        "108-88-3": [
+            "IFRA_STD_182"
+        ],
+        "515-03-7": [
+            "IFRA_STD_183"
+        ],
+        "4674-50-4": [
+            "IFRA_STD_185"
+        ],
+        "138-86-3": [
+            "IFRA_STD_186"
+        ],
+        "7705-14-8": [
+            "IFRA_STD_186"
+        ],
+        "5989-27-5": [
+            "IFRA_STD_186"
+        ],
+        "5989-54-8": [
+            "IFRA_STD_186"
+        ],
+        "78-70-6": [
+            "IFRA_STD_187"
+        ],
+        "126-90-9": [
+            "IFRA_STD_187"
+        ],
+        "126-91-0": [
+            "IFRA_STD_187"
+        ],
+        "81-14-1": [
+            "IFRA_STD_189"
+        ],
+        "94-86-0": [
+            "IFRA_STD_190"
+        ],
+        "63477-41-8": [
+            "IFRA_STD_190"
+        ],
+        "2785-87-7": [
+            "IFRA_STD_191"
+        ],
+        "515-69-5": [
+            "IFRA_STD_192"
+        ],
+        "23089-26-1": [
+            "IFRA_STD_192"
+        ],
+        "23178-88-3": [
+            "IFRA_STD_192"
+        ],
+        "78148-59-1": [
+            "IFRA_STD_192"
+        ],
+        "76738-75-5": [
+            "IFRA_STD_192"
+        ],
+        "72691-24-8": [
+            "IFRA_STD_192"
+        ],
+        "589-18-4": [
+            "IFRA_STD_193"
+        ],
+        "536-60-7": [
+            "IFRA_STD_194"
+        ],
+        "24048-14-4": [
+            "IFRA_STD_195"
+        ],
+        "185019-19-6": [
+            "IFRA_STD_195"
+        ],
+        "58001-88-0": [
+            "IFRA_STD_195"
+        ],
+        "58001-87-9": [
+            "IFRA_STD_195"
+        ],
+        "1373932-23-0": [
+            "IFRA_STD_195"
+        ],
+        "1018832-07-9": [
+            "IFRA_STD_195"
+        ],
+        "11028-42-5": [
+            "IFRA_STD_197"
+        ],
+        "469-61-4": [
+            "IFRA_STD_197"
+        ],
+        "546-28-1": [
+            "IFRA_STD_197"
+        ],
+        "17488-65-2": [
+            "IFRA_STD_198"
+        ],
+        "475-20-7": [
+            "IFRA_STD_199"
+        ],
+        "16846-09-6": [
+            "IFRA_STD_199"
+        ],
+        "19067-29-9": [
+            "IFRA_STD_199"
+        ],
+        "3658-77-3": [
+            "IFRA_STD_201"
+        ],
+        "19317-11-4": [
+            "IFRA_STD_202"
+        ],
+        "41448-29-7": [
+            "IFRA_STD_203"
+        ],
+        "762-26-5": [
+            "IFRA_STD_204"
+        ],
+        "55722-59-3": [
+            "IFRA_STD_205"
+        ],
+        "1754-00-3": [
+            "IFRA_STD_205"
+        ],
+        "72203-98-6": [
+            "IFRA_STD_205"
+        ],
+        "72203-97-5": [
+            "IFRA_STD_205"
+        ],
+        "106-23-0": [
+            "IFRA_STD_206"
+        ],
+        "5949-05-3": [
+            "IFRA_STD_206"
+        ],
+        "71077-31-1": [
+            "IFRA_STD_207"
+        ],
+        "5502-75-0": [
+            "IFRA_STD_208"
+        ],
+        "13828-37-0": [
+            "IFRA_STD_208"
+        ],
+        "13674-19-6": [
+            "IFRA_STD_208"
+        ],
+        "67634-03-1": [
+            "IFRA_STD_209"
+        ],
+        "68480-15-9": [
+            "IFRA_STD_210"
+        ],
+        "107898-54-4": [
+            "IFRA_STD_211"
+        ],
+        "65113-99-7": [
+            "IFRA_STD_212"
+        ],
+        "65114-03-6": [
+            "IFRA_STD_213"
+        ],
+        "65505-24-0": [
+            "IFRA_STD_214"
+        ],
+        "91-61-2": [
+            "IFRA_STD_215"
+        ],
+        "19343-78-3": [
+            "IFRA_STD_216"
+        ],
+        "5471-51-2": [
+            "IFRA_STD_217"
+        ],
+        "13341-72-5": [
+            "IFRA_STD_218"
+        ],
+        "38049-04-6": [
+            "IFRA_STD_218"
+        ],
+        "116044-44-1": [
+            "IFRA_STD_219"
+        ],
+        "116126-82-0": [
+            "IFRA_STD_219"
+        ],
+        "33885-52-8": [
+            "IFRA_STD_220"
+        ],
+        "70788-30-6": [
+            "IFRA_STD_221"
+        ],
+        "139504-68-0": [
+            "IFRA_STD_222"
+        ],
+        "1891-67-4": [
+            "IFRA_STD_223"
+        ],
+        "74338-72-0": [
+            "IFRA_STD_224"
+        ],
+        "916887-53-1": [
+            "IFRA_STD_225"
+        ],
+        "27538-09-6": [
+            "IFRA_STD_226"
+        ],
+        "27538-10-9": [
+            "IFRA_STD_226"
+        ],
+        "16429-07-5": [
+            "IFRA_STD_227"
+        ],
+        "623-36-9": [
+            "IFRA_STD_228"
+        ],
+        "4643-27-0": [
+            "IFRA_STD_229"
+        ],
+        "67801-33-6": [
+            "IFRA_STD_231"
+        ],
+        "67633-95-8": [
+            "IFRA_STD_231"
+        ],
+        "81786-75-6": [
+            "IFRA_STD_232"
+        ],
+        "81786-73-4": [
+            "IFRA_STD_232"
+        ],
+        "86115-11-9": [
+            "IFRA_STD_232"
+        ],
+        "81786-74-5": [
+            "IFRA_STD_232"
+        ],
+        "93893-89-1": [
+            "IFRA_STD_233"
+        ],
+        "53243-59-7": [
+            "IFRA_STD_233"
+        ],
+        "53243-60-0": [
+            "IFRA_STD_233"
+        ],
+        "1669-44-9": [
+            "IFRA_STD_234"
+        ],
+        "2550-11-0": [
+            "IFRA_STD_235"
+        ],
+        "16587-71-6": [
+            "IFRA_STD_236"
+        ],
+        "338735-71-0": [
+            "IFRA_STD_237"
+        ],
+        "351343-77-6": [
+            "IFRA_STD_237"
+        ],
+        "2705-87-5": [
+            "IFRA_STD_238"
+        ],
+        "60763-41-9": [
+            "IFRA_STD_239"
+        ],
+        "91-87-2": [
+            "IFRA_STD_240"
+        ],
+        "10461-98-0": [
+            "IFRA_STD_241"
+        ],
+        "155514-23-1": [
+            "IFRA_STD_242"
+        ],
+        "97-42-7": [
+            "IFRA_STD_243"
+        ],
+        "1205-42-1": [
+            "IFRA_STD_243"
+        ],
+        "1134-95-8": [
+            "IFRA_STD_243"
+        ],
+        "1576-78-9": [
+            "IFRA_STD_244"
+        ],
+        "35154-45-1": [
+            "IFRA_STD_245"
+        ],
+        "67633-96-9": [
+            "IFRA_STD_246"
+        ],
+        "13049-88-2": [
+            "IFRA_STD_247"
+        ],
+        "150-84-5": [
+            "IFRA_STD_248"
+        ],
+        "67601-05-2": [
+            "IFRA_STD_248"
+        ],
+        "141-11-7": [
+            "IFRA_STD_248"
+        ],
+        "2550-52-9": [
+            "IFRA_STD_249"
+        ],
+        "88642-03-9": [
+            "IFRA_STD_250"
+        ],
+        "5365-06-0": [
+            "IFRA_STD_250"
+        ],
+        "2550-59-6": [
+            "IFRA_STD_250"
+        ],
+        "3100-36-5": [
+            "IFRA_STD_250"
+        ],
+        "5120-20-7": [
+            "IFRA_STD_250"
+        ],
+        "854373-71-0": [
+            "IFRA_STD_250"
+        ],
+        "854373-70-9": [
+            "IFRA_STD_250"
+        ],
+        "60241-52-3": [
+            "IFRA_STD_251"
+        ],
+        "60241-53-4": [
+            "IFRA_STD_251"
+        ],
+        "58567-11-6": [
+            "IFRA_STD_252"
+        ],
+        "62439-42-3": [
+            "IFRA_STD_253"
+        ],
+        "122-67-8": [
+            "IFRA_STD_254"
+        ],
+        "93-29-8": [
+            "IFRA_STD_255"
+        ],
+        "68966-86-9": [
+            "IFRA_STD_256"
+        ],
+        "5533-03-9": [
+            "IFRA_STD_257"
+        ],
+        "72403-67-9": [
+            "IFRA_STD_258"
+        ],
+        "68738-94-3": [
+            "IFRA_STD_259"
+        ],
+        "68738-96-5": [
+            "IFRA_STD_259"
+        ],
+        "68991-96-8": [
+            "IFRA_STD_259"
+        ],
+        "68991-97-9": [
+            "IFRA_STD_259"
+        ],
+        "106-44-5": [
+            "IFRA_STD_260"
+        ],
+        "1319-77-3": [
+            "IFRA_STD_260"
+        ],
+        "2120-70-9": [
+            "IFRA_STD_261"
+        ],
+        "499-70-7": [
+            "IFRA_STD_262"
+        ],
+        "59471-80-6": [
+            "IFRA_STD_262"
+        ],
+        "98-53-3": [
+            "IFRA_STD_263"
+        ],
+        "53767-86-5": [
+            "IFRA_STD_264"
+        ],
+        "2986-54-1": [
+            "IFRA_STD_265"
+        ],
+        "10599-70-9": [
+            "IFRA_STD_266"
+        ],
+        "358331-95-0": [
+            "IFRA_STD_267"
+        ],
+        "357650-26-1": [
+            "IFRA_STD_267"
+        ],
+        "847144-75-6": [
+            "IFRA_STD_267"
+        ]
+    }
+}

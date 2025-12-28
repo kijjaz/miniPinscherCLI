@@ -1,0 +1,7 @@
+rich
+pandas
+questionary
+fpdf
+openpyxl
+prompt_toolkit
+pillow
